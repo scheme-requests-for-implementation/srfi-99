@@ -1,4 +1,6 @@
 
+# SPDX-FileCopyrightText: 2024 Arthur A. Gleckler
+# SPDX-License-Identifier: MIT
 * SRFI 99: ERR5RS Records
 
 ** by William D Clinger
@@ -7,10 +9,12 @@
 
 keywords: [[https://srfi.schemers.org/?keywords=data-structure][Data Structure]]
 
-library-name: recordsThis repository hosts [[https://srfi.schemers.org/srfi-99/][SRFI 99]]: ERR5RS Records, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
+library-name: records
+
+This repository hosts [[https://srfi.schemers.org/srfi-99/][SRFI 99]]: ERR5RS Records, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
-See also [[/srfi-237/][SRFI 237: Reconciled Records]].
+See also [[/srfi-237/][SRFI 237: R6RS Records (refined)]] and [[/srfi-256/][SRFI 256: Minimal extension to SRFI 9/R7RS small record type definitions for inheritance]].
 The full documentation for this SRFI can be found in the [[https://srfi.schemers.org/srfi-99/srfi-99.html][SRFI Document]].
 
 If you'd like to participate in the discussion of this SRFI, or report issues with it, please [[https://srfi.schemers.org/srfi-99/][join the SRFI-99 mailing list]] and send your message there.
