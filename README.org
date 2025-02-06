@@ -1,5 +1,5 @@
 
-# SPDX-FileCopyrightText: 2024 Arthur A. Gleckler
+# SPDX-FileCopyrightText: 2025 Arthur A. Gleckler
 # SPDX-License-Identifier: MIT
 * SRFI 99: ERR5RS Records
 
@@ -7,7 +7,7 @@
 
 
 
-keywords: [[https://srfi.schemers.org/?keywords=data-structure][Data Structure]]
+keywords: [[https://srfi.schemers.org/?keywords=data-structure][Data Structure]], [[https://srfi.schemers.org/?keywords=record-type][Record Type]]
 
 library-name: records
 
